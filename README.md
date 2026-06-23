@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/0027-remove-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/shyamnit17-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shyamnit17-ui/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1833-maximum-ice-cream-bars](https://github.com/shyamnit17-ui/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shyamnit17-ui/Leetcode/tree/master/0016-3sum-closest) |
+| [1833-maximum-ice-cream-bars](https://github.com/shyamnit17-ui/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/shyamnit17-ui/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/shyamnit17-ui/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
