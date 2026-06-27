@@ -3,7 +3,7 @@ class Solution {
         HashSet<Character> sb= new HashSet<>();
         int start=0;
         int end=0;
-        int maxlength=Integer.MIN_VALUE;
+        int maxlength=0;
         if(s.length()==0){
             return s.length();
         }
