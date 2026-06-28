@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shyamnit17-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shyamnit17-ui/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamnit17-ui/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shyamnit17-ui/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/shyamnit17-ui/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamnit17-ui/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/shyamnit17-ui/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shyamnit17-ui/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shyamnit17-ui/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamnit17-ui/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shyamnit17-ui/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamnit17-ui/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Counting
 |  |
 | ------- |
