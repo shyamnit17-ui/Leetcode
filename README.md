@@ -110,10 +110,15 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/shyamnit17-ui/Leetcode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0260-single-number-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/shyamnit17-ui/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
