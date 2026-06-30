@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/shyamnit17-ui/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shyamnit17-ui/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/shyamnit17-ui/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shyamnit17-ui/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shyamnit17-ui/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shyamnit17-ui/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/shyamnit17-ui/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shyamnit17-ui/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shyamnit17-ui/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/shyamnit17-ui/Leetcode/tree/master/1695-maximum-erasure-value) |
 ## String
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/shyamnit17-ui/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shyamnit17-ui/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shyamnit17-ui/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shyamnit17-ui/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamnit17-ui/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
