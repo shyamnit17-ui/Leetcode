@@ -15,11 +15,10 @@ class Solution {
         return sb.toString();
     }
     public List<List<String>> groupAnagrams(String[] strs) {
-        List<List<String>> ans= new ArrayList<>();
         HashMap<String,List<String>> stres= new HashMap<>();
         for(int i=0;i<strs.length;i++){
         String key= generateFingerprint(strs[i]);
-        if(!stres.containsKey(generateFingerprint(strs[i]))){
+        if(!stres.containsKey(key)){
             List<String> sl= new ArrayList<>();
              stres.put(key,sl);
              sl.add(strs[i]);
@@ -27,10 +26,8 @@ class Solution {
          else if(stres.containsKey(key)){
             stres.get(key).add(strs[i]);
          } 
-        if(!ans.contains(stres.get(key))) {
-            ans.add(stres.get(key));
-        }
-        }
-        return ans;
+        } 
+       List<List<String>> valuesOnly = new ArrayList<>(stres.values());
+        return valuesOnly;
     }
 }
