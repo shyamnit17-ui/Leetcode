@@ -23,7 +23,7 @@ class Solution {
              stres.put(key,sl);
              sl.add(strs[i]);
          }
-         else if(stres.containsKey(key)){
+         else{
             stres.get(key).add(strs[i]);
          } 
         } 
