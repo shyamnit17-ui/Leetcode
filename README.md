@@ -148,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0318-maximum-product-of-word-lengths](https://github.com/shyamnit17-ui/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1310-xor-queries-of-a-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shyamnit17-ui/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shyamnit17-ui/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
