@@ -14,11 +14,13 @@ class Solution {
         else{
             sum+=1;
         }
-       
          if(!map.containsKey(sum)){
               map.put(sum,i);
            } 
-             length=Math.max(length,i-map.get(sum));
+           int idx=map.get(sum);
+             if(i-idx>length){
+                length=i-idx;
+             }
       } 
     
       return length;
