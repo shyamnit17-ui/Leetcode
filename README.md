@@ -195,10 +195,16 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
