@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/shyamnit17-ui/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shyamnit17-ui/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/shyamnit17-ui/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shyamnit17-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/shyamnit17-ui/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shyamnit17-ui/Leetcode/tree/master/0049-group-anagrams) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0135-candy](https://github.com/shyamnit17-ui/Leetcode/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/shyamnit17-ui/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
