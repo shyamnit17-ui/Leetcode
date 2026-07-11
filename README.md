@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shyamnit17-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/shyamnit17-ui/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shyamnit17-ui/Leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/0027-remove-element) |
 | [0567-permutation-in-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/shyamnit17-ui/Leetcode/tree/master/0049-group-anagrams) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/shyamnit17-ui/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shyamnit17-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/shyamnit17-ui/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shyamnit17-ui/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shyamnit17-ui/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/shyamnit17-ui/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/shyamnit17-ui/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/shyamnit17-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shyamnit17-ui/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -222,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/shyamnit17-ui/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
