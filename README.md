@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/shyamnit17-ui/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shyamnit17-ui/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/shyamnit17-ui/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0525-contiguous-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/shyamnit17-ui/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shyamnit17-ui/Leetcode/tree/master/0049-group-anagrams) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shyamnit17-ui/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shyamnit17-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/0567-permutation-in-string) |
