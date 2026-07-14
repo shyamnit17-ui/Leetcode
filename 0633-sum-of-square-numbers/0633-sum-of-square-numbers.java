@@ -1,13 +1,13 @@
 class Solution {
     public boolean judgeSquareSum(int c) {
-       int root=(int)Math.pow(c,0.5);
+       int root=(int)Math.sqrt(c);
        if(c==0){
         return true;
        }
       for(int i=root;i>0;i--){    
-       int need= c- i*i;
-       int a=(int)Math.pow(need,0.5);
-          if(a*a+i*i==c){
+       int need=  i*i;
+       int a=(int)Math.sqrt(c-need);
+          if(a*a+need==c){
         return true;
        }
       }
