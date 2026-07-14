@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/0027-remove-element) |
 | [0567-permutation-in-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0633-sum-of-square-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shyamnit17-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/shyamnit17-ui/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shyamnit17-ui/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0292-nim-game) |
+| [0633-sum-of-square-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shyamnit17-ui/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1688-count-of-matches-in-tournament](https://github.com/shyamnit17-ui/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2396-strictly-palindromic-number) |
