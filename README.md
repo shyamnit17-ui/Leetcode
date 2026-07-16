@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2678-number-of-senior-citizens](https://github.com/shyamnit17-ui/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3452-sum-of-good-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/3452-sum-of-good-numbers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shyamnit17-ui/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/shyamnit17-ui/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2396-strictly-palindromic-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shyamnit17-ui/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/shyamnit17-ui/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1701-average-waiting-time](https://github.com/shyamnit17-ui/Leetcode/tree/master/1701-average-waiting-time) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -263,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shyamnit17-ui/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
