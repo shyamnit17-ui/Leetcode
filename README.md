@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/shyamnit17-ui/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shyamnit17-ui/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/shyamnit17-ui/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shyamnit17-ui/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0137-single-number-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/shyamnit17-ui/Leetcode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/shyamnit17-ui/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
