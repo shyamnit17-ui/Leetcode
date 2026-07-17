@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/shyamnit17-ui/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shyamnit17-ui/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/shyamnit17-ui/Leetcode/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/shyamnit17-ui/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shyamnit17-ui/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0137-single-number-ii) |
