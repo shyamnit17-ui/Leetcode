@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/shyamnit17-ui/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shyamnit17-ui/Leetcode/tree/master/0724-find-pivot-index) |
+| [0845-longest-mountain-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/shyamnit17-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0845-longest-mountain-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shyamnit17-ui/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0845-longest-mountain-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/shyamnit17-ui/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/shyamnit17-ui/Leetcode/tree/master/1291-sequential-digits) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
