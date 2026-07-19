@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3452-sum-of-good-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/shyamnit17-ui/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1688-count-of-matches-in-tournament](https://github.com/shyamnit17-ui/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1701-average-waiting-time](https://github.com/shyamnit17-ui/Leetcode/tree/master/1701-average-waiting-time) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/shyamnit17-ui/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
