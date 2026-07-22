@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0633-sum-of-square-numbers) |
