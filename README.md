@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2678-number-of-senior-citizens](https://github.com/shyamnit17-ui/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3452-sum-of-good-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/3452-sum-of-good-numbers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/shyamnit17-ui/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0318-maximum-product-of-word-lengths](https://github.com/shyamnit17-ui/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1310-xor-queries-of-a-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shyamnit17-ui/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shyamnit17-ui/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
