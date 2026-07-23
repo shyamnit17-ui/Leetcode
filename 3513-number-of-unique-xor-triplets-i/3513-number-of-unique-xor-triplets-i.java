@@ -3,11 +3,8 @@ class Solution {
       int n=nums.length;
       if(n<=2){
         return n;
-      }
-      int ans=0;
-      for(int count=1;ans<=nums.length;count++){
-        ans=(int)Math.pow(2,count);
-      }
-      return ans;
+      } 
+      int ans=Integer.highestOneBit(n);
+      return ans*2;
     }
 }
