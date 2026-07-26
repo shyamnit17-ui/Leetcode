@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shyamnit17-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/shyamnit17-ui/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shyamnit17-ui/Leetcode/tree/master/0724-find-pivot-index) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0292-nim-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shyamnit17-ui/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1688-count-of-matches-in-tournament](https://github.com/shyamnit17-ui/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
