@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1394-find-lucky-integer-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shyamnit17-ui/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shyamnit17-ui/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shyamnit17-ui/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/shyamnit17-ui/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/shyamnit17-ui/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shyamnit17-ui/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/shyamnit17-ui/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
