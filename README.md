@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shyamnit17-ui/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamnit17-ui/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2678-number-of-senior-citizens](https://github.com/shyamnit17-ui/Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/shyamnit17-ui/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/shyamnit17-ui/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/shyamnit17-ui/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shyamnit17-ui/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shyamnit17-ui/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
