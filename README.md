@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3452-sum-of-good-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
+| [3731-find-missing-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/shyamnit17-ui/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shyamnit17-ui/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1679-max-number-of-k-sum-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/shyamnit17-ui/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
