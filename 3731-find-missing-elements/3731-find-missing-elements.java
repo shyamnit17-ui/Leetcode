@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
-        HashSet<Integer> set= new HashSet<>();
+        boolean arr[]=new boolean[101];
         List<Integer> list = new ArrayList<>();
         int small=101;
         int large=0;
@@ -11,10 +11,10 @@ class Solution {
             if(large<nums[i]){
                 large=nums[i];
             }
-            set.add(nums[i]);
+            arr[nums[i]]=true;
         }
         for(int i=small;i<=large;i++){
-            if(!set.contains(i)){
+            if(arr[i]==false){
                 list.add(i);
             }
         }
