@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3452-sum-of-good-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shyamnit17-ui/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3731-find-missing-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shyamnit17-ui/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shyamnit17-ui/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shyamnit17-ui/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
