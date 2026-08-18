@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/shyamnit17-ui/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shyamnit17-ui/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/shyamnit17-ui/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2678-number-of-senior-citizens](https://github.com/shyamnit17-ui/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyamnit17-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1310-xor-queries-of-a-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shyamnit17-ui/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shyamnit17-ui/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1991-find-the-middle-index-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamnit17-ui/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
