@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shyamnit17-ui/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamnit17-ui/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2485-find-the-pivot-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1688-count-of-matches-in-tournament](https://github.com/shyamnit17-ui/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shyamnit17-ui/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
