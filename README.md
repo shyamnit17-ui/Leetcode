@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shyamnit17-ui/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1550-three-consecutive-odds](https://github.com/shyamnit17-ui/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/shyamnit17-ui/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shyamnit17-ui/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
