@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shyamnit17-ui/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/shyamnit17-ui/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shyamnit17-ui/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shyamnit17-ui/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamnit17-ui/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2678-number-of-senior-citizens](https://github.com/shyamnit17-ui/Leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/shyamnit17-ui/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/shyamnit17-ui/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/shyamnit17-ui/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shyamnit17-ui/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1688-count-of-matches-in-tournament](https://github.com/shyamnit17-ui/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1927-sum-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0292-nim-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
