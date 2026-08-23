@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shyamnit17-ui/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2032-two-out-of-three](https://github.com/shyamnit17-ui/Leetcode/tree/master/2032-two-out-of-three) |
 | [2090-k-radius-subarray-averages](https://github.com/shyamnit17-ui/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2460-apply-operations-to-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/shyamnit17-ui/Leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1679-max-number-of-k-sum-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/shyamnit17-ui/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shyamnit17-ui/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2032-two-out-of-three](https://github.com/shyamnit17-ui/Leetcode/tree/master/2032-two-out-of-three) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyamnit17-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyamnit17-ui/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1310-xor-queries-of-a-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shyamnit17-ui/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2032-two-out-of-three](https://github.com/shyamnit17-ui/Leetcode/tree/master/2032-two-out-of-three) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shyamnit17-ui/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shyamnit17-ui/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
