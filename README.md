@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/shyamnit17-ui/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shyamnit17-ui/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shyamnit17-ui/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/shyamnit17-ui/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shyamnit17-ui/Leetcode/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/shyamnit17-ui/Leetcode/tree/master/0051-n-queens) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shyamnit17-ui/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Quickselect
 |  |
@@ -458,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shyamnit17-ui/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
