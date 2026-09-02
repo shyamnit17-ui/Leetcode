@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3708-longest-fibonacci-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3731-find-missing-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/shyamnit17-ui/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shyamnit17-ui/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/shyamnit17-ui/Leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Brainteaser
 |  |
