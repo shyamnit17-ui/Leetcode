@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/shyamnit17-ui/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shyamnit17-ui/Leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/shyamnit17-ui/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shyamnit17-ui/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shyamnit17-ui/Leetcode/tree/master/0135-candy) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/shyamnit17-ui/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/shyamnit17-ui/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shyamnit17-ui/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shyamnit17-ui/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shyamnit17-ui/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shyamnit17-ui/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shyamnit17-ui/Leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/shyamnit17-ui/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/shyamnit17-ui/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Design
 |  |
