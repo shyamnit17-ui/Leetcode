@@ -1,28 +1,29 @@
 class Solution {
-   
     public boolean check(int[] nums) {
-        int copy[]=new int[nums.length];
-        for(int i=0;i<nums.length;i++){
-            copy[i]=nums[i];
-        }
-        Arrays.sort(copy);
-     int x=0;
-     boolean bool[]=new boolean[nums.length+1];
-     Arrays.fill(bool, true);
-     while(x<=nums.length){
-        for(int i=0;i<nums.length;i++){
-            if(copy[i]!=nums[(i+x)%nums.length]){
-                bool[x]=false;
-            }
-        }
-        x++;
-     }
-     for(int i=0;i<=nums.length;i++){
-        if(bool[i]==true){
-            return true;
-        }
-        
-     }
-     return false;
+       int m=0;
+       for(int i=1;i<nums.length;i++){
+         if(nums[i]>=nums[i-1]){
+            continue;
+         }
+         else{
+            m=i;
+            break;
+         }
+       }
+      
+       for(int j=m+1;j<nums.length;j++){
+         if(nums[j]>=nums[j-1]){
+            continue;
+         }
+         else{
+            return false;
+         }
+       }
+        if(m>0){
+         if(nums[nums.length-1]>nums[0]){
+            return false;
+         }
+       }
+       return true;
     }
 }
