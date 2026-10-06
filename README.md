@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2053-kth-distinct-string-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2090-k-radius-subarray-averages](https://github.com/shyamnit17-ui/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/shyamnit17-ui/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/shyamnit17-ui/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shyamnit17-ui/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/shyamnit17-ui/Leetcode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/shyamnit17-ui/Leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyamnit17-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyamnit17-ui/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
