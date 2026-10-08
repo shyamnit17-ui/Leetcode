@@ -116,7 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/shyamnit17-ui/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/0027-remove-element) |
-| [0142-linked-list-cycle-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0141-linked-list-cycle](https://github.com/shyamnit17-ui/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamnit17-ui/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -251,7 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/shyamnit17-ui/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shyamnit17-ui/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shyamnit17-ui/Leetcode/tree/master/0128-longest-consecutive-sequence) |
-| [0142-linked-list-cycle-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0141-linked-list-cycle](https://github.com/shyamnit17-ui/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shyamnit17-ui/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -504,7 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
-| [0142-linked-list-cycle-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0141-linked-list-cycle](https://github.com/shyamnit17-ui/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Algorithm X
 |  |
@@ -523,7 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
-| [0142-linked-list-cycle-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0141-linked-list-cycle](https://github.com/shyamnit17-ui/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shyamnit17-ui/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
