@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/shyamnit17-ui/Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/shyamnit17-ui/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyamnit17-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyamnit17-ui/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2053-kth-distinct-string-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/shyamnit17-ui/Leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyamnit17-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyamnit17-ui/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -552,4 +554,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shyamnit17-ui/Leetcode/tree/master/0148-sort-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
