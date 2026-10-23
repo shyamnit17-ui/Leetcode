@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/shyamnit17-ui/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/shyamnit17-ui/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/shyamnit17-ui/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1991-find-the-middle-index-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamnit17-ui/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2485-find-the-pivot-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/shyamnit17-ui/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
