@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shyamnit17-ui/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/shyamnit17-ui/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [1796-second-largest-digit-in-a-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shyamnit17-ui/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyamnit17-ui/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/shyamnit17-ui/Leetcode/tree/master/2032-two-out-of-three) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shyamnit17-ui/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/shyamnit17-ui/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shyamnit17-ui/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1796-second-largest-digit-in-a-string](https://github.com/shyamnit17-ui/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shyamnit17-ui/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyamnit17-ui/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/1927-sum-game) |
