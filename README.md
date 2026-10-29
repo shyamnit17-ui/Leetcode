@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shyamnit17-ui/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2460-apply-operations-to-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shyamnit17-ui/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-two-out-of-three](https://github.com/shyamnit17-ui/Leetcode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/shyamnit17-ui/Leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyamnit17-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyamnit17-ui/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
