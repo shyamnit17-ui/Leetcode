@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1052-grumpy-bookstore-owner](https://github.com/shyamnit17-ui/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/shyamnit17-ui/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/shyamnit17-ui/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/shyamnit17-ui/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shyamnit17-ui/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/shyamnit17-ui/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0229-majority-element-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/shyamnit17-ui/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/shyamnit17-ui/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/shyamnit17-ui/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyamnit17-ui/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shyamnit17-ui/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/shyamnit17-ui/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Enumeration
 |  |
 | ------- |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/shyamnit17-ui/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shyamnit17-ui/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/shyamnit17-ui/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/shyamnit17-ui/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Design
 |  |
 | ------- |
@@ -643,4 +647,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/shyamnit17-ui/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/shyamnit17-ui/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/shyamnit17-ui/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
