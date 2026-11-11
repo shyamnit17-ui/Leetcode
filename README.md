@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/shyamnit17-ui/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3693-climbing-stairs-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shyamnit17-ui/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -665,4 +667,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
