@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shyamnit17-ui/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/shyamnit17-ui/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shyamnit17-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/shyamnit17-ui/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shyamnit17-ui/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/shyamnit17-ui/Leetcode/tree/master/0198-house-robber) |
 | [0845-longest-mountain-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/1137-n-th-tribonacci-number) |
