@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1137-n-th-tribonacci-number](https://github.com/shyamnit17-ui/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1518-water-bottles](https://github.com/shyamnit17-ui/Leetcode/tree/master/1518-water-bottles) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shyamnit17-ui/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1688-count-of-matches-in-tournament](https://github.com/shyamnit17-ui/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1927-sum-game](https://github.com/shyamnit17-ui/Leetcode/tree/master/1927-sum-game) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/shyamnit17-ui/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/shyamnit17-ui/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shyamnit17-ui/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1518-water-bottles](https://github.com/shyamnit17-ui/Leetcode/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/shyamnit17-ui/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1701-average-waiting-time](https://github.com/shyamnit17-ui/Leetcode/tree/master/1701-average-waiting-time) |
 | [2460-apply-operations-to-an-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/2460-apply-operations-to-an-array) |
