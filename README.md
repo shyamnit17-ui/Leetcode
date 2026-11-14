@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3206-alternating-groups-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shyamnit17-ui/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3452-sum-of-good-numbers](https://github.com/shyamnit17-ui/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shyamnit17-ui/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shyamnit17-ui/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shyamnit17-ui/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2485-find-the-pivot-integer](https://github.com/shyamnit17-ui/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/shyamnit17-ui/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shyamnit17-ui/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/shyamnit17-ui/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shyamnit17-ui/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
